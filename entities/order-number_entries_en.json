@@ -1,0 +1,20 @@
+[
+  {
+    "value": "12345",
+    "synonyms": [
+      "12345"
+    ]
+  },
+  {
+    "value": "ORD123",
+    "synonyms": [
+      "ORD123"
+    ]
+  },
+  {
+    "value": "ABC987",
+    "synonyms": [
+      "ABC987"
+    ]
+  }
+]

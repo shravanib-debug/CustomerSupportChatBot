@@ -1,0 +1,9 @@
+{
+  "id": "0411adde-5668-4908-8798-1cc0154804b0",
+  "name": "order-number",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
