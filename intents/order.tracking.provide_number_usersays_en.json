@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4d8af352-99c5-4d8a-9bd2-65d6bd23b77f",
+    "data": [
+      {
+        "text": "Order ID is ",
+        "userDefined": false
+      },
+      {
+        "text": "45678",
+        "meta": "@sys.number",
+        "alias": "order_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfbfe59b-af0e-45f5-918e-a95f9eb45b53",
+    "data": [
+      {
+        "text": "It is ",
+        "userDefined": false
+      },
+      {
+        "text": "98765",
+        "meta": "@sys.number",
+        "alias": "order_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "478f015c-74f1-45b5-8ec3-0c3657bf382b",
+    "data": [
+      {
+        "text": "My order number is ",
+        "userDefined": false
+      },
+      {
+        "text": "12345",
+        "meta": "@sys.number",
+        "alias": "order_number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a564601-6267-4efd-bbb1-ced3eb40273f",
+    "data": [
+      {
+        "text": "12345",
+        "meta": "@sys.number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

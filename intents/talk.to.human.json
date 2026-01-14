@@ -1,0 +1,35 @@
+{
+  "id": "661538a4-80e0-4993-9e4a-f24130a60513",
+  "name": "talk.to.human",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand — sometimes a human touch helps 👤\n\nYou can reach our support team through:\n📞 Phone: +91-XXXX-XXXX (Mon–Fri, 9 AM–6 PM)\n📧 Email: support@yourcompany.com\n💬 Live chat available on our website\n\nI’ve noted your request. Let me know if I can assist you meanwhile."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

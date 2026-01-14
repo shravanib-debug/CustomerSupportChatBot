@@ -1,0 +1,35 @@
+{
+  "id": "e37b94fd-793a-4875-9cf1-c019ccdf7e3d",
+  "name": "returns.refunds",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m sorry to hear that you need a return 😔  \nI can help you with that.\n\nHere’s our return \u0026 refund policy:\n• Returns accepted within 30 days of delivery\n• Items must be unused and in original packaging\n• Refunds are processed within 3–5 business days after pickup\n\nTo start a return, visit:\nhttps://your-website.com/returns\n\nIf your item is damaged or incorrect, type “agent” and I’ll connect you to support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "73bc3687-efc6-48a4-926e-42b9271e8dc1",
+    "data": [
+      {
+        "text": "Track order ABC987",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e9bc735-4539-4461-8d0c-634e11d1504c",
+    "data": [
+      {
+        "text": "Order ID is ORD123",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24c93afd-5584-4c3d-9c5c-ec57d19aa7f7",
+    "data": [
+      {
+        "text": "My order number is ",
+        "userDefined": false
+      },
+      {
+        "text": "12345",
+        "meta": "@sys.number",
+        "alias": "order_number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e91dc8cd-21e5-4c00-a2d6-7bdfdca9097c",
+    "data": [
+      {
+        "text": "I want to track my package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "832b7b37-ecb1-4ae5-bb65-e50866b6ad53",
+    "data": [
+      {
+        "text": "My order hasn\u0027t arrived yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14142e89-1cf0-4941-be44-8cce25c848ff",
+    "data": [
+      {
+        "text": "Check my delivery\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f4b56db-d68c-4f45-aec7-2f898ab69051",
+    "data": [
+      {
+        "text": "When will my package arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a5d7681-a7e6-41a2-a97a-4005bee223c5",
+    "data": [
+      {
+        "text": "Order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b4e09ab-9e4b-4062-abb6-184ae839d22e",
+    "data": [
+      {
+        "text": "Track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e2f8cbd-0346-4bd8-9a52-3274be12fd00",
+    "data": [
+      {
+        "text": "Where is my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

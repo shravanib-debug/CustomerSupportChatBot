@@ -1,0 +1,80 @@
+[
+  {
+    "id": "49451619-6f5c-4a4f-9a1f-4838dc25e07c",
+    "data": [
+      {
+        "text": "Live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20da2fb8-cb7d-427b-b3f1-fe46e9238790",
+    "data": [
+      {
+        "text": "Connect me to a representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "860a3fd1-88ca-4fc8-bfca-e165483db6c1",
+    "data": [
+      {
+        "text": "I want human support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82401705-9573-49d1-b0fa-8eb91f45bc7d",
+    "data": [
+      {
+        "text": "Customer care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e340111b-3b7a-4406-a022-87d7520a058c",
+    "data": [
+      {
+        "text": "Speak to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5f2510b-d4ad-46b0-b058-5f6ba38fc0f7",
+    "data": [
+      {
+        "text": "Talk to an agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6543c8de-b191-4baa-88f0-9fe38b1be113",
+    "data": [
+      {
+        "text": "Wrong product delivered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9de64557-f5ea-4dad-99c9-227db73c7bf9",
+    "data": [
+      {
+        "text": "Item is damaged",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d642033-0c79-461b-99de-3fa03e29eb1d",
+    "data": [
+      {
+        "text": "Exchange an item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef52b349-434c-42ec-bfa0-76f69c44516b",
+    "data": [
+      {
+        "text": "Refund status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3cea0d8-ac02-4a83-a162-d82f179b0dd5",
+    "data": [
+      {
+        "text": "I need a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d2ad62a-3aa5-42a1-8650-77b4f621c41e",
+    "data": [
+      {
+        "text": "Return policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "709cefc2-f6ad-443d-a2f8-eb358e5f96dd",
+    "data": [
+      {
+        "text": "How do I return a product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91a6bc26-584b-49a7-ba61-816dbc204e07",
+    "data": [
+      {
+        "text": "I want to return my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

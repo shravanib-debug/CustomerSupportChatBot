@@ -1,0 +1,53 @@
+{
+  "id": "adc42ea4-7fff-490d-8db9-51b343d0bcce",
+  "name": "order.tracking.provide_number",
+  "auto": true,
+  "contexts": [
+    "awaiting_order_number"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5eda15f-c6c5-4056-9d0c-dd996f12ef02",
+          "name": "order_number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$order_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! I’ve received your order number: $order_number 📦\nI’m checking the latest status for your order now.\nPlease hold on for a moment.\n\nIs there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

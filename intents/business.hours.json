@@ -1,0 +1,50 @@
+{
+  "id": "8e9c3a84-a645-4398-a95b-01dfded1d44c",
+  "name": "business.hours",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ed56c03-c8b0-4528-8c58-0fdeb2030ceb",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are our support hours ⏰\n\n📞 Phone Support:\nMonday to Friday, 9 AM – 6 PM IST\n\n💬 Chat Support:\nAvailable 24/7 (you’re chatting with me now!)\n\n📧 Email:\nWe respond within 24 hours\n\nHow else can I help you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "28033ea7-2ddd-4b04-9da2-6fca471226fe",
+  "name": "order.tracking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_order_number",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d0f26790-ab6c-464f-a6d2-a4b5d83f1293",
+          "name": "order_number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$order_number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! I can help you track your order 📦\n\nPlease share your order number.\nExample: 12345",
+            "Thanks! I’ve received your order number: $order_number 📦\n\nI’m checking the latest status for your order.\nPlease hold on for a moment."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
